@@ -147,18 +147,10 @@ The project uses invoice documents containing information such as:
 - Bill To information
 - Ship To information
 
-The dataset contains **10 invoice documents** used for the PII evaluation.
+The invoice dataset used in this project was obtained from:
 
-The dataset source and related information are documented separately in:
+[Invoice Dataset – Lab 08](https://github.com/tertiarycourses/TGS-2025059028-Build-and-Deploy-Agentic-AI-Apps-with-CrewAI-Autogen-ADK-and-Streamlit/tree/main/labs/lab-08-build-a-rag-pipeline-over-invoice-pdfs/data/invoices)
 
-`data/README.md`
-
-The dataset source repository is:
-
-`TGS-2025059028 – Build and Deploy Agentic AI Apps with CrewAI, Autogen, ADK and Streamlit`
-
-Source: https://github.com/tertiarycourses/TGS-2025059028-Build-and-Deploy-Agentic-AI-Apps-with-CrewAI-Autogen-ADK-and-Streamlit
----
 
 # PII Masking Evaluation
 
@@ -495,9 +487,6 @@ The currently maintained project structure is:
 
 `└── README.md`
 
-The dataset source information is maintained inside:
-
-`data/README.md`
 
 ---
 
